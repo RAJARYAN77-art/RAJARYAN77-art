@@ -96,6 +96,6 @@ I'm Raj Aryan, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Se
 
 **"Securing the digital world, one vulnerability at a time."**
 
-[![Website](https://img.shields.io/badge/Website-rajaryans.netlify.app-00F72F?style=for-the-badge)](https://rajaryans.netlify.app)
+[![Website](https://img.shields.io/badge/Website-rajaryan.neocities.org-00F72F?style=for-the-badge)](https://rajaryan.neocities.org)
 
 </div>
